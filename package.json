@@ -1,0 +1,27 @@
+{
+  "name": "twitchtools",
+  "version": "0.0.1",
+  "description": "Tools for Twitch Streamers",
+  "main": "main.js",
+  "dependencies": {
+    "electron-window-state": "^5.0.3",
+    "fs": "0.0.1-security"
+  },
+  "devDependencies": {
+    "electron": "^16.0.5"
+  },
+  "scripts": {
+    "test": "test",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobertSchalk/TwitchTools.git"
+  },
+  "author": "ExiledVigor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RobertSchalk/TwitchTools/issues"
+  },
+  "homepage": "https://github.com/RobertSchalk/TwitchTools#readme"
+}
